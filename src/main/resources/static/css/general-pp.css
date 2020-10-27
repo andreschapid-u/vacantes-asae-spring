@@ -1,0 +1,47 @@
+#conFooter {
+	background: #FFFFFF url(img/fon-footer.jpg) repeat-x 0 41px;
+	padding-bottom: 5px;
+	clear: both;
+}
+#footerInfDireccion {
+			display: block;
+			text-align: center;
+			color: #FFCC00;
+			font-size: 14px;
+			margin: 6px 0 3px 0;
+		}
+#conFooterInferior {
+	display: block;
+	background: #CC0000 url(img/fon-cabecera-rojov2.png) repeat-y;
+	height: 80px;v2
+}
+
+/* Separador negro con borde blanco en el footer inferior */
+	#sepNegroFooterInf {
+		display: block;
+		height: 4px;
+		background-color: #000000;
+		border-bottom: 1px solid #FFFFFF;
+		clear: both;
+	}
+
+	#fonIzqFooterInf {
+		display: block;
+		height: 59px;
+		width: 132px;
+		background: url(img/fon-izq-footer-inf.gif) no-repeat;
+		float: left;
+	}
+
+	#fonDerFooterInf {
+		display: block;
+		height: 59px;
+		width: 132px;
+		background: url(img/fon-der-footer-inf.gif) no-repeat;
+		float: right;
+	}
+	
+	#conContenidoFooterInf {
+		float: left;
+		width: 706px;
+	}
